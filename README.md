@@ -10,4 +10,4 @@
 
   1. Install nodeJS
   1. From your web directory, run
-  > node ../_path-to-server_/server.js 
+    node ../_path-to-server_/server.js 
