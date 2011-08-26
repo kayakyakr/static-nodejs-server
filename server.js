@@ -3,7 +3,8 @@ var http = require('http');
 var url = require('url');
 var fs = require('fs');
 
-// stolen from jack- thanks
+// borrowed from ry who stole it from jack- thanks
+// https://github.com/ry/node_chat/blob/master/fu.js
 var mime = {
   // returns MIME type for extension, or fallback, or octet-steam
   lookupExtension : function(ext, fallback) {
